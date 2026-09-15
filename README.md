@@ -1,7 +1,7 @@
 # Hi there, I'm Samiksha Singh 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/SamikshaSingh1904?label=Follow&style=social)](https://github.com/SamikshaSingh1904)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiksingh/)
 [![Email](https://img.shields.io/badge/Email-sasingh%40mit.edu-red?style=flat&logo=gmail)](mailto:sasingh@mit.edu)
 
 ---
