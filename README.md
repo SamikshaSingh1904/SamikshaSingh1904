@@ -8,12 +8,8 @@
 
 ### 🔬 About Me
 
-I am a researcher and software engineer working at the intersection of **machine learning**, **Bayesian optimization**, and **computational engineering systems** (affiliated with MIT and Wellesley College). My work focuses on building scalable surrogate models, in-context learning architectures, and real-time streaming telemetry systems for scientific and engineering challenges.
+I am a computer science student and undergraduate researcher exploring **machine learning**, **HCI**, **software design** and **robotics**. My work has previously focused on building scalable surrogate models, in-context learning architectures, and real-time streaming telemetry systems for scientific and engineering challenges.
 
-- 🧠 **In-Context Learning & Deep Surrogates**: Prior-Data Fitted Networks (PFNs) to bypass cubic $\mathcal{O}(N^3)$ Gaussian Process bottlenecks.
-- 🏙️ **Spatiotemporal Graph Architectures**: Modeling asymmetric metropolitan mobility and transit demand using disjoint spatial metric embeddings and Transformers.
-- ⚙️ **Multi-Objective Bayesian Optimization**: Constrained engineering design space exploration ($q$EHVI) coupled with automated parametric CAD synthesis.
-- ⚡ **Real-Time Signal Processing**: High-rate biosignal telemetry (EEG/EOG), continuous IIR digital filtering, and adaptive artifact cancellation.
 
 ---
 
